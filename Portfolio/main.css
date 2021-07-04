@@ -1,0 +1,29 @@
+
+
+#navelementswrapper{
+    
+    position: absolute;
+    top:0;
+    right:0;
+    padding: 0px;
+    font-size: 36px;
+    
+
+}
+
+.nav-link{
+    margin-left: 10px;
+    margin-right: 10px;
+    /* background-color: blanchedalmond; */
+}
+
+#keywordwrapper{
+    text-align: center;
+    position: relative;
+    top: 50vh;
+    font-size: 72px;
+}
+#keyword{
+    margin: 30px;
+    font-family: 'Playfair Display', serif;
+}

@@ -1,0 +1,56 @@
+#navelementswrapper{
+    
+    position: absolute;
+    top:0;
+    right:24px;
+    padding: 0px;
+    font-size: 36px;
+    
+
+}
+
+
+.nav-link{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+#infobox{
+    margin:12px;
+    
+    height:85vh;
+    
+}
+.area{
+    display: inline-block;
+}
+
+#area1{
+    
+
+    background-color: red;
+    width: 40%;
+    
+    
+    
+}
+#area2{
+    background-color: blanchedalmond;
+    
+    width: 30%;
+
+   
+    
+    
+    
+    
+}
+#area3{
+    background-color: burlywood;
+    width: 29%;
+    
+   
+    
+}
+
