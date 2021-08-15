@@ -54,3 +54,17 @@
     
 }
 
+.bottomAlign{
+    height: calc(100vh - 150px); display: table-cell; vertical-align: bottom;
+    padding: 10px;
+}
+
+
+@media screen and (max-width: 1200px) {
+    .bottomAlign{
+        display:block;
+        vertical-align: auto;
+        height:fit-content;
+
+    }
+}
